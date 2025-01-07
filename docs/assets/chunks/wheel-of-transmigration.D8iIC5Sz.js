@@ -1,1 +1,0 @@
-const s="/assets/youtube/the-amazing-dazu-rock-carvings.jpg",a="/assets/youtube/we-are-shocked-by-what-this-country-offers.jpg",t="/assets/holy-scene-of-the-nirvana-of-sakyamuni.jpg",o="/assets/thousand-armed-guanyin.jpg",e="/assets/wheel-of-transmigration.jpg";export{s as _,a,t as b,o as c,e as d};

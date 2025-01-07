@@ -1,1 +1,0 @@
-import{u as t}from"./framework.5fhU9H-2.js";import{e,h as s,i as o}from"./theme.KHvOx0vv.js";const c=()=>{const{localeIndex:a}=t();return e(s,a.value)},u=()=>{const{localeIndex:a}=t();return e(o,a.value)};export{u as a,c as g};

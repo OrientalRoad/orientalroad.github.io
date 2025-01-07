@@ -1,0 +1,1 @@
+const s="/assets/youtube/best-day-in-dali-yunnan-we-couldnt-wait-to-come-here-in-china.webp",t="/assets/youtube/why-chinese-dali-so-attractive.webp",e="/assets/youtube/we-lost-in-dali.webp";export{s as _,t as a,e as b};
