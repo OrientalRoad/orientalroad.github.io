@@ -1,1 +1,0 @@
-const s="/assets/youtube/how-safe-is-china-as-a-foreigner-in-2024.webp",t="/assets/youtube/this-is-how-they-treat-foreiners-in-rural-china.webp",e="/assets/youtube/full-supermarket-tour-in-china.webp",a="/assets/youtube/full-supermarket-tour-in-china-ks.webp";export{s as _,t as a,e as b,a as c};

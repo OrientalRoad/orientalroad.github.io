@@ -1,0 +1,1 @@
+import{u as t}from"./framework.iA63QoZl.js";import{e,h as o,i as s}from"./theme.ZCfglfV2.js";console.log("attractionsRawData",e);const c=()=>{const{localeIndex:a}=t();return o(e,a.value)},l=()=>{const{localeIndex:a}=t();return o(s,a.value)};export{l as a,c as g};
