@@ -1,0 +1,1 @@
+import{d as t,c as o,o as a,S as n,C as r,r as c,_ as l}from"./framework.CgP6qKMI.js";const _={class:"container"},d=t({__name:"Container",props:["style"],setup(e){return(s,i)=>(a(),o("div",{class:"VPDoc",style:n(e.style)},[r("div",_,[c(s.$slots,"default",{},void 0,!0)])],4))}}),f=l(d,[["__scopeId","data-v-e738f03f"]]);export{f as C};
