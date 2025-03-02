@@ -1,1 +1,0 @@
-import{c as o,o as t,r}from"./framework.CgP6qKMI.js";const s={class:"description-container"},p={__name:"Description",props:{col:{type:Number,default:3}},setup(c){return(e,n)=>(t(),o("div",s,[r(e.$slots,"default")]))}};export{p as _};
