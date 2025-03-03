@@ -1,0 +1,1 @@
+import{G as m}from"./framework.DNEL1Zu6.js";import{l as s}from"./theme.Dh8_jjvT.js";const c=o=>{var t,a,r;const{localeIndex:e}=m();return((r=(a=(t=s[e.value])==null?void 0:t.dateFormatter)==null?void 0:a.format)==null?void 0:r.call(a,o))||o};export{c as f};

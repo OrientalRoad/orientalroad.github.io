@@ -1,1 +1,0 @@
-import{j as t,l as a,m as o,a4 as n,x as r,p as c,_ as l}from"./framework.BKtd1kvI.js";const _={class:"container"},i=t({__name:"Container",props:["style"],setup(e){return(s,d)=>(o(),a("div",{class:"VPDoc",style:n(e.style)},[r("div",_,[c(s.$slots,"default",{},void 0,!0)])],4))}}),m=l(i,[["__scopeId","data-v-e738f03f"]]);export{m as C};
