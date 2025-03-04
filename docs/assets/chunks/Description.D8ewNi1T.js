@@ -1,0 +1,1 @@
+/* empty css                                                    */import{l as t,m as o,p as r}from"./framework.D3smszVH.js";const s={class:"description-container"},i={__name:"Description",props:{col:{type:Number,default:3}},setup(c){return(e,n)=>(o(),t("div",s,[r(e.$slots,"default")]))}};export{i as _};
